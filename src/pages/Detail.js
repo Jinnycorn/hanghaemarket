@@ -55,7 +55,7 @@ const Detail =(props)=>{
     //console.log(target_idx);
     const post_target = post_list[target_idx]
     //console.log(post_target);
-    
+
     // const post_list = useSelector((state) => state.post.list)
     // console.log(post_list);
     // const target_idx = post_list.findIndex((p) => p.id == detail_id);
@@ -215,14 +215,6 @@ margin:auto;
 width:1020px;
 padding-bottom: 20px;
 
-@media (max-width: 950px){
-  width:350px;
-  height:auto;
-  } 
-@media (max-width: 350px)
-{ width: 100% ;
-  height:auto;
-}
 `;
 
 const TitleBox=styled.div`
@@ -331,15 +323,6 @@ display: flex;
 height: 70px;
 margin-top: 30px;
 
-@media (max-width: 950px){
-  width:350px;
-  height:auto;
-  } 
-@media (max-width: 350px)
-{ width: 100% ;
-  height:auto;
-}
-
 `;
 
 const ProductInfoButton=styled.button`
@@ -387,14 +370,6 @@ padding-right: 30px;
 border-right: 1px solid rgb(238, 238, 238);
 height: calc(100% - 50px);
 
-@media (max-width: 950px){
-  width:350px;
-  height:auto;
-  } 
-@media (max-width: 350px)
-{ width: 100% ;
-  height:auto;
-}
 `;
 
 const ProductInfo=styled.div`
