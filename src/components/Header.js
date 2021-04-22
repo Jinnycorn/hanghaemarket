@@ -108,9 +108,6 @@ const HeaderInnerContainer = styled.div`
   padding: 0 20px 0 20px;
   /* 페이지가 축소 되면 오른쪽 부분이 잘려서 보이지 않는 것을 막는 태그 */
   box-sizing: border-box;
-  @media (max-width: 975px){
-    width: 80%;
-  }
 `;
 
 const HeaderLeft = styled.div`

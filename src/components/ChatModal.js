@@ -43,7 +43,7 @@ const ChatModal = (props) => {
   const receiverEmail = post_target.email;
   const userEmail = localStorage.getItem('email');
   console.log(receiverEmail);
-  
+
   const _token = localStorage.getItem("Authorization");
     let token = {
       headers : { Authorization: `${_token}` }, 
