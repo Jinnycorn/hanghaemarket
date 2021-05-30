@@ -51,7 +51,6 @@
 
 ## 구동사진
 
-### 1. 회원가입
 ![항해1](https://user-images.githubusercontent.com/79818840/119585961-c76fb480-be06-11eb-9135-3f4b510d3d21.JPG)
 ![항해2](https://user-images.githubusercontent.com/79818840/119585965-cb033b80-be06-11eb-84fc-5db72df29391.JPG)
 ![항해3](https://user-images.githubusercontent.com/79818840/119585968-ccccff00-be06-11eb-88d8-8cffc50b94fc.JPG)
